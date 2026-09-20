@@ -207,7 +207,31 @@
 ---
 
 <h2 align="center">🐍 Contribution Journey</h2>
-
+name: Generate Snake Animation
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
+permissions:
+contents: write
+jobs:
+generate:
+runs-on: ubuntu-latest
+steps:
+- name: Generate Snake
+uses: Platane/snk@v3
+with:
+github_user_name: kashif7230
+outputs: |
+dist/github-snake.svg
+dist/github-snake-dark.svg?palette=github-dark
+- name: Push to output branch
+uses: crazy-max/ghaction-github-pages@v4
+with:
+target_branch: output
+build_dir: dist
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <p align="center">
   <img src="https://raw.githubusercontent.com/aheteshamkhan/aheteshamkhan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
