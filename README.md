@@ -6,15 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:991B1B&height=220&section=header&text=Ahetesham%20Khan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20and%20Agentic%20AI&descAlignY=58&descAlign=50" width="100%" alt="Ahetesham Khan Header Banner" />
 </p>
 
-<!-- ================================================================= -->
-<!--                AHETESHAM KHAN - GITHUB PROFILE README            -->
-<!--        AI Engineer | Data Scientist | Generative & Agentic AI     -->
-<!-- ================================================================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Ahetesham%20Khan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20%26%20Agentic%20AI&descAlignY=58&descAlign=50" width="100%" alt="Ahetesham Khan Header Banner" />
-</p>
-
 <p align="center">
   <a href="https://github.com/aheteshamkhan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=FF4500&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Ahetesham+Khan+%F0%9F%91%8B;AI+Engineer+%26+Data+Scientist+%F0%9F%8E%93;Generative+AI+%26+Agentic+Workflow+Builder+%F0%9F%A4%96;Building+Scalable+ML+Pipelines+%26+LLM+Systems+%E2%9A%A1;Turning+Data+into+Intelligent+Solutions+%F0%9F%9A%80" width="100%" style="max-width: 650px;" alt="Typing SVG" />
