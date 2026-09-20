@@ -18,13 +18,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=aheteshamkhan&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-     
-    <source media="(prefers-color-scheme: light)"
-    <img alt="GitHub Contribution Snake"
-    
-  </picture>
-</p>
+
