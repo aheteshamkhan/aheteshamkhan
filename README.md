@@ -1,3 +1,13 @@
+# Test hex colors in capsule-render customColorList
+$testUrl = "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ahetesham%20Khan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20and%20Agentic%20AI&descAlignY=58&descAlign=50"
+$r = Invoke-WebRequest -Uri $testUrl -UseBasicParsing
+Write-Host "Response length: $($r.Content.Length)"
+
+# Let's test custom hex color list:
+$testUrl2 = "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=red,darkred&height=220&section=header&text=Ahetesham%20Khan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20and%20Agentic%20AI&descAlignY=58&descAlign=50"
+$r2 = Invoke-WebRequest -Uri $testUrl2 -UseBasicParsing
+Write-Host "Response 2 contains red: $($r2.Content -match 'red')"
+
 <!-- ================================================================= -->
 <!--                AHETESHAM KHAN - GITHUB PROFILE README            -->
 <!--        AI Engineer | Data Scientist | Generative & Agentic AI     -->
