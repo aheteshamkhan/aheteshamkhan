@@ -2,6 +2,14 @@
 <!--                AHETESHAM KHAN - GITHUB PROFILE README            -->
 <!--        AI Engineer | Data Scientist | Generative & Agentic AI     -->
 <!-- ================================================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,100:991B1B&height=220&section=header&text=Ahetesham%20Khan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20and%20Agentic%20AI&descAlignY=58&descAlign=50" width="100%" alt="Ahetesham Khan Header Banner" />
+</p>
+
+<!-- ================================================================= -->
+<!--                AHETESHAM KHAN - GITHUB PROFILE README            -->
+<!--        AI Engineer | Data Scientist | Generative & Agentic AI     -->
+<!-- ================================================================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Ahetesham%20Khan&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Generative%20%26%20Agentic%20AI&descAlignY=58&descAlign=50" width="100%" alt="Ahetesham Khan Header Banner" />
